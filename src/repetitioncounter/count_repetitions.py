@@ -16,3 +16,19 @@ def count_repetitions(tokens):
 
 
     return occurrences
+
+def tokenize(line):
+    tokens = []
+    lowercased_line = line.lower()
+    punctuation_to_remove = '!"#$%&()*+,./:;<=>?@[\\]^_`{|}~'
+    without_punctuation = ""
+    for character in lowercased_line:
+        if character not in punctuation_to_remove:
+            without_punctuation = without_punctuation + character
+    split = without_punctuation.split(" ")
+    for token in split:
+        if token != '':
+            tokens.append(token)
+
+    return tokens
+
