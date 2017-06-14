@@ -16,10 +16,10 @@ class singlewordreptests(unittest.TestCase):
 
     def test_single_rep_word_returns_three_times_just_that_word(self):
         test_input = [
-            "Romeo", "Romeo", "wherefore", "are", "thou", "Romeo",
+            "romeo", "romeo", "wherefore", "are", "thou", "romeo",
         ]
         expected_output = {
-            "Romeo": 3,
+            "romeo": 3,
         }
         actual_output = src.repetitioncounter.count_repetitions.count_repetitions(test_input)
         self.assertEqual(expected_output, actual_output)
