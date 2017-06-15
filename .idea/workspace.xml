@@ -14,48 +14,16 @@
     <SUITE FILE_PATH="coverage/day2$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1497461812833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/day2$Single_Word_Rep_Counter_Test.coverage" NAME="Single Word Rep Counter Test Coverage Results" MODIFIED="1497386546750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/repetitioncounter" />
     <SUITE FILE_PATH="coverage/day2$Unittests_in_LineOfDialogueTests_py.coverage" NAME="Unittests in LineOfDialogueTests.py Coverage Results" MODIFIED="1497547231704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/day2$Unittests_in_ActParserTests_py.coverage" NAME="Unittests in ActParserTests.py Coverage Results" MODIFIED="1497563133432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/day2$Unittests_in_ActParserTests_py.coverage" NAME="Unittests in ActParserTests.py Coverage Results" MODIFIED="1497567565735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Output and notes from day 2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Output and notes from day 2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scraps.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/repetitioncounter/scraps.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MultiwordPhraseRepTests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/repetitioncounter/MultiwordPhraseRepTests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SceneParser.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Parser/SceneParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="252">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -66,8 +34,8 @@
       <file leaf-file-name="SceneParserTests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/parser/SceneParserTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="323">
+              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="23" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -75,13 +43,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActParserTests.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ActParserTests.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/parser/ActParserTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="286">
+              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#271#509#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -97,35 +66,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActParser.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ActParser.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Parser/ActParser.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LineOfDialogueTests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/parser/LineOfDialogueTests.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="289">
+              <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LineOfDialogue.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Parser/LineOfDialogue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="91" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,12 +112,12 @@
         <option value="$PROJECT_DIR$/src/parts/parts.py" />
         <option value="$PROJECT_DIR$/src/Parser/LineOfDialogue.py" />
         <option value="$PROJECT_DIR$/tests/parser/LineOfDialogueTests.py" />
-        <option value="$PROJECT_DIR$/src/Parser/ActParser.py" />
         <option value="$PROJECT_DIR$/src/Parser/SceneParser.py" />
         <option value="$PROJECT_DIR$/tests/parser/SceneParserTests.py" />
         <option value="$PROJECT_DIR$/src/Parser/PlayParser" />
         <option value="$PROJECT_DIR$/src/Parser/PlayParser.py" />
         <option value="$PROJECT_DIR$/tests/parser/ActParserTests.py" />
+        <option value="$PROJECT_DIR$/src/Parser/ActParser.py" />
       </list>
     </option>
   </component>
@@ -612,35 +559,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 14h 41m 17s.xml">
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 30m 50s.xml">
       <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 14h 41m 36s.xml">
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 37m 05s.xml">
       <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 14h 42m 14s.xml">
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 39m 42s.xml">
       <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 14h 44m 11s.xml">
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 40m 16s.xml">
       <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 14h 45m 33s.xml">
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 45m 36s.xml">
       <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_SceneParserTests_py - 2017.06.15 at 13h 56m 52s.xml">
-      <configuration name="Unittests in SceneParserTests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 46m 05s.xml">
+      <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_SceneParserTests_py - 2017.06.15 at 13h 57m 45s.xml">
-      <configuration name="Unittests in SceneParserTests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 46m 39s.xml">
+      <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_SceneParserTests_py - 2017.06.15 at 14h 00m 11s.xml">
-      <configuration name="Unittests in SceneParserTests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 47m 28s.xml">
+      <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_SceneParserTests_py - 2017.06.15 at 14h 02m 07s.xml">
-      <configuration name="Unittests in SceneParserTests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 57m 44s.xml">
+      <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_SceneParserTests_py - 2017.06.15 at 14h 04m 49s.xml">
-      <configuration name="Unittests in SceneParserTests.py" configurationId="tests" />
+    <history-entry file="Unittests_in_ActParserTests_py - 2017.06.15 at 15h 59m 25s.xml">
+      <configuration name="Unittests in ActParserTests.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -653,7 +600,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31201044" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31201044" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -681,14 +628,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Output and notes from day 2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -729,20 +668,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/repetitioncounter/scraps.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/repetitioncounter/Single_Word_Rep_Tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -752,7 +683,7 @@
         <state relative-caret-position="31">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="56" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -813,16 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/repetitioncounter/MultiwordPhraseRepTests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_monkey_qt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -854,6 +775,50 @@
         <state relative-caret-position="187">
           <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
           <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parser/PlayParser">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/repetitioncounter/MultiwordPhraseRepTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/repetitioncounter/scraps.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="71" lean-forward="false" selection-start-line="8" selection-start-column="71" selection-end-line="8" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Output and notes from day 2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/parser/SceneParserTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="23" />
+          <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
@@ -869,37 +834,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Parser/SceneParser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="252">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/parser/SceneParserTests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/ActParser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Parser/PlayParser">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -913,10 +852,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/parser/ActParserTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="286">
+          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#271#509#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Parser/ActParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
